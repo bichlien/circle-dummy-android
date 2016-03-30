@@ -15,7 +15,7 @@ import android.test.ActivityInstrumentationTestCase2;
 public class CircleDummyActivityTest extends ActivityInstrumentationTestCase2<CircleDummyActivity> {
 
     public CircleDummyActivityTest() {
-        super("com.circleci", CircleDummyActivity.class);
+        super("com.circleci1", CircleDummyActivity.class);
     }
 
 }
